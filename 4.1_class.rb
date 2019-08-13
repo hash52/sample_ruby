@@ -34,3 +34,5 @@ foo1.extend(Bar) #こっちのほうが簡潔にかける
 p foo1.methodA
 
 #foo2.methodA 不可
+
+# 機能B
