@@ -144,3 +144,6 @@ p :foo1.equal? :foo1
 
 v2 = v1
 v1.equal? v2
+
+
+# 機能A

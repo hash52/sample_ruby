@@ -8,3 +8,5 @@ p add(1,3)
 p STDIN
 p ARGV[0]
 p ENV["PATH"]
+
+#機能A
